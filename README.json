@@ -1,4 +1,3 @@
-// src/pages/Index.tsx
 import React, { useEffect, useState } from "react";
 import { StatusBar } from "@/components/landing/StatusBar";
 import { Logo } from "@/components/landing/Logo";
